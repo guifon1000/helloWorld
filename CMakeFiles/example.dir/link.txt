@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -g    CMakeFiles/example.dir/src/main.cpp.o  -o debug/example -rdynamic -lX11 -lXi -lXxf86vm -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -lz /home/fon/Developpement/irrlicht-1.8.3/lib/Linux/libIrrlicht.a -lX11 -lXxf86vm -lpthread -lGLU -lGL -lSM -lICE -lXext -lglut -lXmu -lz /home/fon/Developpement/irrlicht-1.8.3/lib/Linux/libIrrlicht.a 
